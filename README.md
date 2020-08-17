@@ -7,4 +7,4 @@ I'm a DevOps Engineer at [Adobe](www.adobe.com). Currently living in Utah.
 - 🤔 I’m looking for help with Offensive Security Certified Professional (OSCP) preparation.
 - 📫 How to reach me: saikiranchalla4@gmail.com or Twitter [@saikiranchalla](https://twitter.com/saikiranchalla)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm lazy. I always have the easiest solution to a problem.
+- ⚡ Fun fact:

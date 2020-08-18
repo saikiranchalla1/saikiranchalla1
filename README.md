@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Sai Kiran Challa (Sai). 
 
-<img src="programmer-1653351_1280.png" align="right" width="250" height="300" style="float:right"/>
-
 I'm a DevOps Engineer at [Adobe](https://www.adobe.com/). Currently living in Utah.
 
 - 🌱 I’m currently learning Ethical Hacking and Penetration Testing.

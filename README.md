@@ -1,4 +1,4 @@
-<h2>  <img src="https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif" width="50">, I'm Sai Kiran Challa!</h2> 
+<h2>  <img src="https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif" width="50"> I'm Sai Kiran Challa!</h2> 
 
 I'm a DevOps Engineer at [Adobe](https://www.adobe.com/). Currently living in Utah.
 

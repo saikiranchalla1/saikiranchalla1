@@ -2,8 +2,8 @@
 
 I'm a DevOps Engineer at [Adobe](https://www.adobe.com/). Currently living in Utah.
 
-- 🌱 I’m currently learning Ethical Hacking and Penetration Testing.
-- 👯 I’m looking to collaborate on CTFs, DevOps, Cloud Computing.
+- Graduate Certificate (Incident Response focus) student at [SANS Technology Institute](https://www.sans.edu/)
+- 👯 I’m looking to collaborate on Incident Response and digital forensics.
 - 📫 How to reach me: saikiranchalla4@gmail.com or Twitter [@saikiranchalla](https://twitter.com/saikiranchalla)
 - 😄 Pronouns: He/Him.
 
